@@ -1,0 +1,2 @@
+jwt:
+  secret-key: "the_project_daijai"
