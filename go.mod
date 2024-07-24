@@ -3,6 +3,7 @@ module github.com/NuttayotSukkum/daijai-main-libs
 go 1.22.1
 
 require (
+	github.com/NuttayotSukkum/daijai-main-libs v1.0.0
 	github.com/fsnotify/fsnotify v1.7.0 // indirect
 	github.com/golang-jwt/jwt v3.2.2+incompatible // indirect
 	github.com/hashicorp/hcl v1.0.0 // indirect
